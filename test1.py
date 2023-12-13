@@ -4,6 +4,7 @@ print("making input statement")
 
 
 print("line5")
+print("line6")
 
 
 
